@@ -47,6 +47,7 @@ Check a download with `shasum -a 256 ~/Downloads/Lynx_1.0.7_aarch64.dmg`.
 
 ## More
 
+- Is it safe? What Lynx sends, how updates are verified, how to report a problem: [lynxdownloadmanager.com/security](https://www.lynxdownloadmanager.com/security)
 - Release notes: [lynxdownloadmanager.com/changelog](https://www.lynxdownloadmanager.com/changelog)
 - Privacy: downloads run on your Mac and never pass through our servers ([privacy policy](https://www.lynxdownloadmanager.com/privacy))
 - Help and support: [lynxdownloadmanager.com/support](https://www.lynxdownloadmanager.com/support) · support@lynxdownloadmanager.com
